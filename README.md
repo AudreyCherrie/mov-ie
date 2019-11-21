@@ -1,6 +1,6 @@
 #  Movie watchlist
 #### {One stop for latest and trending movies}, {14-11-2019}
-#### By **Amos Mwangi**
+#### By **Audrey Macharia*
 
 ## Setup/Installation Requirements
 * Install python and flask
